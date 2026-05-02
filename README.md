@@ -28,11 +28,10 @@ Technologies Used:
 
 --> How to Run the Project:
 1. Clone the repository:
-   ```bash
   git clone https://github.com/srushhtireddy/Split-the-Bill-App.git
-2.Open the project in IntelliJ IDEA
-3.Configure MySQL in application.properties
-4.Run the Spring Boot application
+2.Open the project in IntelliJ IDEA.
+3.Configure MySQL in application.properties.
+4.Run the Spring Boot application.
 5.Access the application:
 --> http://localhost:8080
 
