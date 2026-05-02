@@ -27,6 +27,7 @@ Technologies Used:
 - Maven
 
 --> How to Run the Project:
+
 1.Clone the repository:
   git clone https://github.com/srushhtireddy/Split-the-Bill-App.git
 
