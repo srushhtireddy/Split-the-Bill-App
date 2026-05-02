@@ -11,6 +11,7 @@ Features:
 - View users, expenses, and split details
 
 Technologies Used:
+
 1.Backend
 - Java  
 - Spring Boot  
@@ -56,10 +57,13 @@ Expense → Stores expense details
 Split → Stores split calculations
 
 Conclusion:
+
 This project demonstrates how shared expenses can be managed efficiently using backend logic and database integration. It reduces manual effort and ensures accurate calculations.
 
 Screenshots:
+
 (Database Tables):
+
 [user](https://github.com/user-attachments/assets/60df8104-413d-489b-a23a-b932432d66a6)
 [split](https://github.com/user-attachments/assets/c367f8b5-1a7b-4a22-b0fe-7b59147dfa27)
 [Expense](https://github.com/user-attachments/assets/6d5779c0-0557-4b12-bf14-72e14e4336ba)
