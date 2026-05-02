@@ -27,7 +27,7 @@ Technologies Used:
 - Maven
 
 --> How to Run the Project:
-1. Clone the repository:
+1.Clone the repository:
   git clone https://github.com/srushhtireddy/Split-the-Bill-App.git
 
 2.Open the project in IntelliJ IDEA.
@@ -39,7 +39,8 @@ Technologies Used:
 5.Access the application:
 --> http://localhost:8080
 
-API Endpoints
+API Endpoints:
+
 1.User APIs: 
 POST/users → Add user
 GET/users → Get all users
